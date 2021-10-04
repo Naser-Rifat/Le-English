@@ -1,0 +1,58 @@
+[
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtgppHGyZlVwtoKfihPxeJwpIM-Xcwd9szXQ&usqp=CAU",
+        "title": " LE LANGUAGE YEAR ABROAD",
+        "duration": "1-24 week",
+        "description": "Combine language and academic studies at a school abroad. Prepare for an official language exam and gain work experience.",
+        "price": 300,
+        "id": 1
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1614107151491-6876eecbff89?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Zm9yZWlnbiUyMGxhbmd1YWdlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "title": "LANGUAGE ABROAD",
+        "duration": "6, 9 or 11 months",
+        "description": "Combine language and academic studies at a school abroad. Prepare for an official language exam and gain work experience.",
+        "price": 500,
+        "id": 2
+    },
+    {
+        "img": "https://www.goabroad.com/section_cloudinary/gaplabs/image/upload/images2/program_content/5-1530440068.jpg",
+        "title": "UNIVERSITY PREPARATION",
+        "duration": "6 or 9 months",
+        "description": "Gain admission to university in an English-speaking country with a comprehensive preparation program abroad.",
+        "price": 400,
+        "id": 3
+    },
+    {
+        "img": "https://media.istockphoto.com/photos/handsome-mexican-hipster-man-sending-email-with-laptop-picture-id1182472756?k=20&m=1182472756&s=612x612&w=0&h=xRueOTXEepYgPt1r0LQwa-5oo1faclaDrtKhp6VFoPs=",
+        "duration": "Online",
+        "title": "ENGLISH LIVE",
+        "description": "Access live, teacher-led lessons any time, anywhere – at any ability level. We're the world's largest online school ",
+        "price": 100,
+        "id": 4
+    },
+    {
+        "img": "https://storage-prtl-co.imgix.net/endor/organisations/638/images/1509626648_323A1372.jpg",
+        "duration": "4 months",
+        "title": "HULT INTERNATIONAL BUSINESS SCHOOL",
+        "description": "Earn a business degree at Hult, an independent award-winning business school with campuses around the world.",
+        "price": 250,
+        "id": 5
+    },
+    {
+        "img": "https://cdn.shrm.org/image/upload/c_crop%2Ch_408%2Cw_724%2Cx_0%2Cy_31/c_fit%2Cf_auto%2Cq_auto%2Cw_767/v1/Organizational%20and%20Employee%20Development/language_training_pwfgpr?databtoa=eyIxNng5Ijp7IngiOjAsInkiOjMxLCJ4MiI6NzI0LCJ5MiI6NDM5LCJ3Ijo3MjQsImgiOjQwOH19",
+        "duration": "3 months",
+        "title": "LANGUAGE TRAINING",
+        "description": "Focused language training for business and government that ensures results. ",
+        "price": 150,
+        "id": 6
+    },
+    {
+        "img": "https://cdn.sprinter.com.au/wp-content/uploads/2018/08/08042026/IMPARTS-seminar-web.jpg",
+        "duration": "1-5 years",
+        "title": " LE ACADEMY ",
+        "description": "Study and live with students from 75 nationalities. Gain an internationally recognized diploma and access to a top university.",
+        "price": 1000,
+        "id": 7
+    }
+]
