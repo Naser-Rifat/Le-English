@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Banner from '../Banner/Banner';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Card, Col, Row } from 'react-bootstrap';
+import { Row } from 'react-bootstrap';
 import CardData from '../CardData/CardData';
 import Footer from '../Footer/Footer';
 
@@ -20,7 +20,6 @@ const Home = () => {
 
 
     }, [])
-    console.log(data)
 
     return (
         <div>

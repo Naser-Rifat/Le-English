@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from 'react';
-import { Card, Col, Row } from 'react-bootstrap';
+import { Card, Col } from 'react-bootstrap';
 
 const Services = (props) => {
     const { img, title, description, price, duration } = props;

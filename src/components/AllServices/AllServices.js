@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
 import Footer from '../Footer/Footer';
-import Home from '../Home/Home';
 import Menubar from '../Menubar/Menubar';
 import Services from '../Services/Services';
 

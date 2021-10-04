@@ -2,7 +2,7 @@
 
 2. site-link: https://jolly-joliot-6c63eb.netlify.app/
 
--> Educational Website
+33. -> Educational Website
 -> Learn English 
 -> Purchase course
 
