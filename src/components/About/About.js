@@ -27,7 +27,6 @@ const About = () => {
             <div className="pb-5"></div>
             <div className="pb-5"></div>
 
-            <Footer></Footer>
         </div>
     );
 };

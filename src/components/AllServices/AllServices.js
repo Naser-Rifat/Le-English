@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
-import Footer from '../Footer/Footer';
 import Menubar from '../Menubar/Menubar';
 import Services from '../Services/Services';
 
@@ -37,7 +36,7 @@ const AllServices = () => {
                 }
             </Row>
 
-            <Footer></Footer>
+
 
         </div>
     );

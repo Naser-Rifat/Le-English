@@ -13,6 +13,7 @@ import AllServices from './components/AllServices/AllServices';
 import NotFound from './components/NotFound/NotFound';
 import ConatctUs from './components/Support/Support';
 import Support from './components/Support/Support';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -39,6 +40,8 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+
+        <Footer></Footer>
 
 
       </Router>

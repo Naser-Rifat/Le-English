@@ -14,7 +14,7 @@ const Home = () => {
 
     useEffect(() => {
 
-        fetch('./fourdata.json')
+        fetch('./data.json')
             .then(res => res.json())
             .then(data => setData(data))
 
@@ -31,7 +31,7 @@ const Home = () => {
 
 
                     {
-                        data.map(d => <CardData
+                        data.slice(0, 4).map(d => <CardData
 
                             key={d.id}
                             img={d.img}
@@ -46,8 +46,6 @@ const Home = () => {
 
                 </Row>
             </div>
-
-            <Footer></Footer>
 
         </div>
     );

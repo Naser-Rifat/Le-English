@@ -1,5 +1,7 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const CardData = (props) => {
 
@@ -9,14 +11,14 @@ const CardData = (props) => {
             <Card style={{ height: "500px" }}>
                 <Card.Img style={{ height: "180px" }} variant="top" src={img} />
                 <Card.Body>
-                    <Card.Title>{title}</Card.Title>
+                    <Card.Title >{title}</Card.Title>
                     <Card.Text>
                         {duration}
                     </Card.Text>
-                    <Card.Text className="fw-bold"> $
+                    <Card.Text className="fw-bold "> $
                         {price}
                     </Card.Text>
-                    <Card.Text>
+                    <Card.Text >
                         {description}
                     </Card.Text>
                 </Card.Body>
