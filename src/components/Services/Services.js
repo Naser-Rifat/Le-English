@@ -6,8 +6,8 @@ const Services = (props) => {
     return (
 
         <Col>
-            <Card>
-                <Card.Img variant="top" src={img} />
+            <Card style={{ height: "500px" }}>
+                <Card.Img style={{ height: "250px" }} variant="top" src={img} />
                 <Card.Body>
                     <Card.Title>{title}</Card.Title>
                     <Card.Text >

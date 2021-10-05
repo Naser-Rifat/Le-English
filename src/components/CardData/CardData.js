@@ -6,8 +6,8 @@ const CardData = (props) => {
     const { title, img, description, price, duration } = props;
     return (
         <Col>
-            <Card>
-                <Card.Img variant="top" src={img} />
+            <Card style={{ height: "500px" }}>
+                <Card.Img style={{ height: "180px" }} variant="top" src={img} />
                 <Card.Body>
                     <Card.Title>{title}</Card.Title>
                     <Card.Text>

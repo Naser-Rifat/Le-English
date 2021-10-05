@@ -1,6 +1,6 @@
 import React from 'react';
 import Menubar from '../Menubar/Menubar';
-import './banner.css'
+import './banner.css';
 
 
 const Banner = () => {
