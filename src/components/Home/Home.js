@@ -3,7 +3,6 @@ import Banner from '../Banner/Banner';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Row } from 'react-bootstrap';
 import CardData from '../CardData/CardData';
-import Footer from '../Footer/Footer';
 
 
 
@@ -31,7 +30,7 @@ const Home = () => {
 
 
                     {
-                        data.slice(0, 4).map(d => <CardData
+                        data?.slice(0, 4).map(d => <CardData
 
                             key={d.id}
                             img={d.img}

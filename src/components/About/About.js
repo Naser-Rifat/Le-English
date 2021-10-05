@@ -1,5 +1,4 @@
 import React from 'react';
-import Footer from '../Footer/Footer';
 import Menubar from '../Menubar/Menubar';
 
 const About = () => {
